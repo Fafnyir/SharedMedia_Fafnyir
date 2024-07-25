@@ -1,4 +1,4 @@
-## Interface: 100206
+## Interface: 110000, 110002
 ## Title: Fafnyir Media
 ## Notes: Media used by FafnyirUI
 ## IconTexture: Interface\AddOns\SharedMedia_Fafnyir\media\LogoAddon
