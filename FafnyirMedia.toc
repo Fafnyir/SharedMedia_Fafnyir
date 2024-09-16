@@ -1,7 +1,8 @@
-## Interface: 110000
+## Interface: 110002
 ## Title: Fafnyir Media
-## Notes: Media used by FafnyirUI
-## IconTexture: Interface\AddOns\FafnyirMedia\logo\LogoAddon
+## Notes: Media used by Fafnyir
+## Author: Fafnyir
+## IconTexture: Interface\AddOns\FafnyirMedia\logo\AddonLogo
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
